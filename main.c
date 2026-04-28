@@ -1,6 +1,7 @@
 #include <stdio.h>
 #include "sumar.h"
 #include "restar.h"
+#include "multiplicar.h"
 
 int main(int argc, char const * argv[]) {
     int a, b;
@@ -10,5 +11,6 @@ int main(int argc, char const * argv[]) {
     scanf("%d", &b);
     printf("La suma es: %d\n", sumar(a,b));
     printf("La resta es: %d\n", restar(a,b));
+    printf("La multiplicacion es: %d\n", multiplicar(a,b));
     return 0;
 }
