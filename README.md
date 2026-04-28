@@ -7,5 +7,5 @@ Desarrollar un programa en C utilizando archivos de cabeceras para separar las f
 
 **Semestre: Segundo**
 
-**Progreso:2**
+**Progreso: 2**
 
